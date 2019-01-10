@@ -1,4 +1,4 @@
 <?php
-Print "Whatever you want it to print";
+Print "Whatever you want it to print?";
 ?>
 
